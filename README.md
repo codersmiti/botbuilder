@@ -6,8 +6,7 @@
 |----------------|--------------------------------------|
 | React          | Frontend framework for components    |
 | Tailwind CSS   | Styling with utility classes         |
-| Lucide Icons   | Icon set for UI elements             |
-| JavaScript (ES6)| State handling, logic, and events   |
+| JavaScript| State handling, logic, and events   |
 
 ---
 
@@ -19,3 +18,4 @@ Clone the repo and install dependencies:
 git clone https://github.com/codersmiti/botbuilder.git
 cd botbuilder
 npm install
+npm start
