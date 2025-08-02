@@ -1,5 +1,11 @@
 **BotBuilder** is a React app that lets users configure a custom chatbot, simulate chat conversations, and log interactions. It mimics a lightweight frontend for testing prompt engineering and chatbot behavior.
 
+## Live Demo
+
+The app is deployed and accessible here:
+
+**[https://botbuilder-woad.vercel.app/](https://botbuilder-woad.vercel.app/)**
+
 ## Tech Stack
 
 | Tech           | Purpose                              |
